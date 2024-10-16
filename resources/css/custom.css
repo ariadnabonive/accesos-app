@@ -1,0 +1,10 @@
+.table {
+      margin: auto; 
+      width: 1400px;
+      
+  }
+  
+  table th, table td {
+      white-space: nowrap; 
+      text-align: center; 
+  }
